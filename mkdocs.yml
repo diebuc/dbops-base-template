@@ -1,0 +1,8 @@
+site_name: dbops-base-template
+site_description: DevOps base template repository
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
