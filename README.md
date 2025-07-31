@@ -1,3 +1,5 @@
+# Base Repository Template
+
 Use this template to create consistent, well-structured repositories across DevOps and Platform Engineering projects.
 It provides a clean starting point for modules, tools, automations, services, or infrastructure components.
 
@@ -23,6 +25,19 @@ You can fork this repository or use it as a GitHub Template to bootstrap new pro
 2. Clone your new project locally.
 3. Adjust the structure, naming, and files according to your needs.
 4. Add your project-specific code, configuration, or infrastructure definitions.
+
+---
+
+## 🧰 Prerequisites
+
+Depending on the nature of your project, you may require tools such as:
+
+- Git
+- a programming language runtime (e.g., Python, Go, Node.js)
+- container tooling (e.g., Docker)
+- infrastructure tooling (e.g., Terraform, AWS CLI)
+
+This template does not enforce any specific toolchain.
 
 ---
 
@@ -83,3 +98,10 @@ Refer to `SECURITY.md` for guidelines on reporting vulnerabilities or security c
 
 This template is distributed under the MIT License.
 Feel free to use it for personal or commercial projects.
+
+---
+
+## 👥 Maintainers
+
+This repository template is maintained by its contributors.
+Feel free to open issues or suggestions after creating a project from it.

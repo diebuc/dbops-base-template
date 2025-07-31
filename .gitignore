@@ -39,3 +39,6 @@ yarn-error.log*
 *.log
 *.bak
 .cache/
+
+# Project context (not for commit)
+PROJECT_CONTEXT.md
